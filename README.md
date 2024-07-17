@@ -40,6 +40,10 @@ This application is fetching data from API , then displaying it in a pretty fash
 - OpenWeatherMap API: Used to fetch weather data
 
 
+## Link of the github
+
+- PLease find the github link here-> https://github.com/Aman218/WeatherApp
+
 ## Author
 
 - Aman Singh
