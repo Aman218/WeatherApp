@@ -44,6 +44,10 @@ This application is fetching data from API , then displaying it in a pretty fash
 
 - PLease find the github link here-> https://github.com/Aman218/WeatherApp
 
+## Link of my hosted Weather App
+
+ - https://aman218.github.io/WeatherApp/
+
 ## Author
 
 - Aman Singh
